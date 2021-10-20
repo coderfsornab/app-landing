@@ -192,9 +192,9 @@ margin-bottom: 100px;
 }
 .service-main h2{
 
-margin-bottom: 50px;
+/* margin-bottom: 50px; */
 
-font-size: 25pt;
+/* font-size: 25pt; */
 }
 .underline{display: block;border-bottom: 4px solid #00fff0;width: 5%;margin: 20px auto;}
 .service-feature{
